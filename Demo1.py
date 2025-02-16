@@ -1,9 +1,9 @@
-# class Stud:
-#     name ="Nazrul"
-# s1 = Stud() 
-# print(s1) # <__main__.Stud object at 0x00000197D1056A50>
+class Stud:
+     name ="Nazrul"
+s1 = Stud() 
+print(s1) # <__main__.Stud object at 0x00000197D1056A50>
  
-# print(s1.name) # Nazrul
+print(s1.name) # Nazrul
 
 # -------
 
